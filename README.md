@@ -366,6 +366,7 @@ void inverse() {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-03-16 215630](https://github.com/AntonyJohnKennady/Cryptography---19CS412-classical-techqniques/assets/127506261/41cdf32f-7dda-4d35-8c5d-436af662c50a)
 
 
 ## RESULT:
